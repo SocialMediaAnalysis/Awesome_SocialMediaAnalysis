@@ -12,6 +12,9 @@ https://www.barabasilab.com/course
 
 IEMS 441:  Social Network Analysis
  https://www.mccormick.northwestern.edu/industrial/courses/descriptions/441.html
+ https://www.mccormick.northwestern.edu/industrial/documents/syllabi/441.pdf
+ 
+
 
 ## People
 ### Northwestern University
