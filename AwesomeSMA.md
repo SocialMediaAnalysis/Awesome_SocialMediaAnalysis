@@ -102,3 +102,9 @@ Embedding filtering algorithm for generative model
 Time-varying structure
 
 
+## Reading List
+Towards A Principled Bayesian Workflow, Michael Betancourt, October 2018
+https://betanalpha.github.io/assets/case_studies/principled_bayesian_workflow.html#1_bayesian_modeling_and_inference
+
+Intro to Modern Bayesian Learning and Probabilistic Programming
+https://medium.com/@Petuum/intro-to-modern-bayesian-learning-and-probabilistic-programming-c61830df5c50
