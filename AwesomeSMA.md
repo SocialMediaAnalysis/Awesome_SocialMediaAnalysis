@@ -111,3 +111,7 @@ https://betanalpha.github.io/assets/case_studies/principled_bayesian_workflow.ht
 
 Intro to Modern Bayesian Learning and Probabilistic Programming
 https://medium.com/@Petuum/intro-to-modern-bayesian-learning-and-probabilistic-programming-c61830df5c50
+
+## Miscellaneous
+Batch Control System
+
