@@ -50,6 +50,17 @@ https://botometer.iuni.iu.edu/bot-repository/index.html
 Jonathan Albright (Director, Digital Forensics Initiative)
 https://towcenter.columbia.edu/content/jonathan-albright
 
+### Stanford University
+Jure Leskovec
+https://cs.stanford.edu/people/jure/
+
+Facebook
+Justin Cheng (cascading behaviour)
+https://clr3.com/
+
+Srijan Kumar
+https://cs.stanford.edu/~srijan/
+
 ## Institutes
 Center for Complex Networks and Systems Research, Indiana University
 http://cnets.indiana.edu/ 
@@ -60,12 +71,14 @@ http://iuni.iu.edu/
 NICO Northwestern University
 https://www.nico.northwestern.edu/
 
- Northeastern University 
- Networks Science Institute
+Northeastern University 
+Networks Science Institute
 https://www.networkscienceinstitute.org/
 Center for Complex Network Research
 https://www.barabasilab.com/
 Center for Ultra-scale Computing and Information Security at Northwestern University
+
+
 
 ## Labs
 Observatory on Social Media, Indiana University (Resources like Data and Code)
@@ -114,4 +127,5 @@ https://medium.com/@Petuum/intro-to-modern-bayesian-learning-and-probabilistic-p
 
 ## Miscellaneous
 Batch Control System
+
 
