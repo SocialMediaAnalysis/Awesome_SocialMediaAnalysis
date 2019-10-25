@@ -125,6 +125,18 @@ https://betanalpha.github.io/assets/case_studies/principled_bayesian_workflow.ht
 Intro to Modern Bayesian Learning and Probabilistic Programming
 https://medium.com/@Petuum/intro-to-modern-bayesian-learning-and-probabilistic-programming-c61830df5c50
 
+### System Design
+
+
+Reading notes on the excellent "Designing Data-Intensive Applications"
+https://github.com/ResidentMario/designing-data-intensive-applications-notes
+
+Designing Data-Intensive Applications
+https://dataintensive.net/
+
+System Design Interviews
+https://www.youtube.com/results?search_query=system+design
+
 ## Miscellaneous
 Batch Control System
 
