@@ -46,6 +46,12 @@ http://www.onurvarol.com/
 Onur Varol's Bot Repository (Resources for bot detection)
 https://botometer.iuni.iu.edu/bot-repository/index.html
 
+### University of Chicago
+
+John Levi Martin
+https://sociology.uchicago.edu/directory/john-levi-martin
+
+
 ### Columbia University
 Jonathan Albright (Director, Digital Forensics Initiative)
 https://towcenter.columbia.edu/content/jonathan-albright
