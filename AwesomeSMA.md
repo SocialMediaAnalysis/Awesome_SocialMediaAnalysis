@@ -10,10 +10,14 @@ https://www.amazon.com/Network-Science-Albert-L%C3%A1szl%C3%B3-Barab%C3%A1si/dp/
 PHYS 5116: Complex Networks | Fall 2019
 https://www.barabasilab.com/course
 
-IEMS 441:  Social Network Analysis
+IEMS 441: Social Network Analysis
  https://www.mccormick.northwestern.edu/industrial/courses/descriptions/441.html
  https://www.mccormick.northwestern.edu/industrial/documents/syllabi/441.pdf
  
+MORS 457: Social Dynamics and Network Analytics 
+ https://www4.kellogg.northwestern.edu/CourseCatalogSchedule/CourseDetail.aspx?CourseID=205657
+
+COMP_ENG 510: Social Media Mining
 
 
 ## People
