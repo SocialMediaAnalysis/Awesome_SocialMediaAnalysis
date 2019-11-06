@@ -37,6 +37,14 @@ Andrew V. Papachristos (NICO member Social network,Urban Neighborhoods, Gun Viol
 https://www.sociology.northwestern.edu/people/faculty/core/andrew-v.--papachristos-.html
 
 
+### University of Chicago
+
+John Levi Martin
+https://sociology.uchicago.edu/directory/john-levi-martin
+
+Ozan Candogan
+https://faculty.chicagobooth.edu/ozan.candogan/www/Welcome.html
+
 ### Northeastern University
 Albert-László Barabási (Director of The Center for Complex Network Research (CCNR))
 http://barabasi.com/
@@ -45,11 +53,6 @@ Onur Varol (Developer of [Botometer](https://botometer.iuni.iu.edu/), Post Doc i
 http://www.onurvarol.com/
 Onur Varol's Bot Repository (Resources for bot detection)
 https://botometer.iuni.iu.edu/bot-repository/index.html
-
-### University of Chicago
-
-John Levi Martin
-https://sociology.uchicago.edu/directory/john-levi-martin
 
 
 ### Columbia University
